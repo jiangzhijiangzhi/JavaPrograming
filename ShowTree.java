@@ -1,3 +1,12 @@
+public class ShowTree
+{
+	public static void main(String[] args) 
+	{
+         Tree_View myTree;
+         myTree=new Tree_View();
+	}
+}
+
 class Tree_View extends JFrame 
 {
 //odbcÇý¶¯
